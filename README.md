@@ -12,4 +12,4 @@ The **NeuroIDS Dataset** is a curated collection of flow-level network traffic r
 - Intrusion Detection (IDS/IPS) research  
 - Network anomaly detection  
 - AI-driven cybersecurity benchmarking  
-- Comparative evaluation against datasets like CICIDS2017 and UNSW-NB15  
+- Comparative evaluation against datasets like CICIDS2017  
