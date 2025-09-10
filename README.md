@@ -1,6 +1,6 @@
 # NeuroIDS Dataset
 
-The **NeuroIDS Dataset** is a curated collection of flow-level network traffic records created for research and development in **Intrusion Detection Systems (IDS)** using **deep learning**. It is optimized for hybrid architectures like **CNN+LSTM**, enabling both spatial and temporal feature learning.
+The **NeuroIDS Dataset** is a curated collection of flow-level network traffic records created for research and development in **Intrusion Detection Systems (IDS)** using **deep learning**. It is optimized for hybrid architectures like **CNN**, enabling both spatial and temporal feature learning.
 
 ## 📖 Description
 - Contains **normal and malicious** traffic flows.  
@@ -13,3 +13,16 @@ The **NeuroIDS Dataset** is a curated collection of flow-level network traffic r
 - Network anomaly detection  
 - AI-driven cybersecurity benchmarking  
 - Comparative evaluation against datasets like CICIDS2017  
+
+## 📊 Model Performance (Neuroids IDS)
+
+Our deep learning model (CNN) achieved the following results on the Neuroids dataset:
+
+- **Training Accuracy:** 99.46%  
+- **Training Loss:** 0.0746  
+- **Validation Accuracy:** 99.72%  
+- **Validation Loss:** 0.0624  
+
+These results demonstrate the robustness of the model in detecting network intrusions with very low error rates.
+
+### Training Output Example
